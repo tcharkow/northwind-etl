@@ -11,4 +11,6 @@ dbt_packages/
 logs/
 
 # OS
-.DS_Store
+.DS_Storejaffle_shop/
+jaffle_shop_1/
+logs/
